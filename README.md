@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurafarage&label=Profile%20views&color=0e75b6&style=flat" alt="laurafarage" /> </p>
 
-- 🔭 I’m currently working on **developing comprehensive dashboards that visualize key performance indicators (KPIs), enabling data-driven decision-making for our leadership team at Calia YT.**
+- 🔭 I’m currently working on **developing comprehensive dashboards that visualize KPIs, enabling data-driven decision-making for our leadership team at Calia YT.**
 
 - 🌱 I’m currently learning **Python**
 
