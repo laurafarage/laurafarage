@@ -1,4 +1,4 @@
-<p align="center"> <a href="file:///C:/Users/laura/Downloads/Cole%C3%A7%C3%A3o%20minimalista%20-%20visite%20o%20nosso%20site%20Banner%20(paisagem)%20(1).png" target="_blank" rel="noreferrer"> <img src="file:///C:/Users/laura/Downloads/Cole%C3%A7%C3%A3o%20minimalista%20-%20visite%20o%20nosso%20site%20Banner%20(paisagem)%20(1).png" alt="banner" width="40" height="40"/> 
+<p align="center"> <a href="file:///C:/Users/laura/Downloads/Cole%C3%A7%C3%A3o%20minimalista%20-%20visite%20o%20nosso%20site%20Banner%20(paisagem)%20(1).png" target="_blank" rel="noreferrer"> <img src="file:///C:/Users/laura/Downloads/Cole%C3%A7%C3%A3o%20minimalista%20-%20visite%20o%20nosso%20site%20Banner%20(paisagem)%20(1).png" alt="banner" width="100" height="100"/> 
 </a>
 
 <h1 align="center">Hi 👋, I'm Laura Farage</h1>
