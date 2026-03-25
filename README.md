@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Laura Farage</h1>
-<h3 align="center">Business Intelligence</h3>
+<h3 align="center">Business Intelligence Specialist | Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurafarage&label=Profile%20views&color=0e75b6&style=flat" alt="laurafarage" /> </p>
 
-- 🔭 I’m currently working on **developing comprehensive dashboards that visualize KPIs, enabling data-driven decision-making for our leadership team at Calia YT.**
+- 🔭 I’m currently working on **developing comprehensive dashboards that visualize KPIs, enabling data-driven decision-making for our leadership team at Nova.**
 
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **advanced analytics projects that involve predictive modeling to forecast business trends and optimize the strategic planning processes.**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/laurafarage](https://www.behance.net/laurafarage)
+- 👨‍💻 All of my projects are available at [https://laurafarage.my.canva.site/](https://laurafarage.my.canva.site/)
 
 - 📫 How to reach me **laurafarage@gmail.com**
 
